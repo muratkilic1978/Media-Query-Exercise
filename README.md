@@ -38,7 +38,7 @@ Next scroll down to the end of the style.css file and add a new media query brea
 
 - Set **right margin** property in the **figure** elemet to **4.5%**
 
-### Test your CSS breakpoint in Google Dev Tools
+#### Test your CSS breakpoint in Google Dev Tools
 
 Open Google Dev Tools by Right-clicking on the page > Inspect
 In the top Menu click on > Responsive Design Mode. <br>
